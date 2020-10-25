@@ -1,0 +1,73 @@
+/*
+#################################### ZAFIRO ####################################
+PALETA DE COLORES
+BASE 015BFF
+0    4082FC
+1    1568FF
+2    0042BB
+3    00338F
+*/
+body {
+  /*color base*/
+  background-color: #015BFF;
+}
+
+a{
+  text-decoration:none;
+  padding: 10px;
+  margin: 0px;
+  color: white;
+  width:100px;
+  }
+  a:link, a:visited, a:active
+  {
+    text-decoration:none;
+    color:white;
+  }
+
+.jumbotron h1, .jumbotron p{
+  margin-left: 74px;
+  color:white;
+}
+.jumbotron {
+  /*color 1*/
+  background-color: #1568FF;
+}
+.navbar{
+    background-color: #0042BB;
+}
+.dropdown-item{
+  color: black;
+}
+.col{
+  margin: 5px;
+  grid-gap: 10px;
+  background-color: white;
+  height: 500px;
+  }
+.row{
+
+  margin: 0px;
+}
+.col img{
+  margin-top: 100px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0px;
+  height: 250px;
+  width: 420px;
+}
+.col h1, .col p{
+  margin: 0px;
+  padding: 0px;
+}
+.navbar-toggler{
+  background-color: #4082FC;
+}
+
+.col p{
+  margin-top: 20px;
+}
+form {
+  margin-left: 0px;
+}

@@ -1,0 +1,26 @@
+/*
+#################################### RUBI ####################################
+PALETA DE COLORES
+BASE 9C0000
+0    E60000
+1    C10000
+2    730000
+3    400000
+*/
+body {
+  /*color base*/
+  background-color: #9C0000;
+}
+
+a{
+  background: #E60000;
+  color: white;
+}
+
+.jumbotron {
+  /*color 1*/
+  background-color: #C10000;
+}
+.navbar{
+    background-color: #730000;
+}

@@ -1,0 +1,26 @@
+/*
+#################################### ZAFIRO ####################################
+PALETA DE COLORES
+BASE 015BFF
+0    4082FC
+1    1568FF
+2    0042BB
+3    00338F
+*/
+body {
+  /*color base*/
+  background-color: #015BFF;
+}
+
+a{
+  background: #4082FC;
+  color: white;
+  }
+
+.jumbotron {
+  /*color 1*/
+  background-color: #1568FF;
+}
+.navbar{
+    background-color: #0042BB;
+}

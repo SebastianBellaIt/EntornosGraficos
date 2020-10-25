@@ -1,0 +1,26 @@
+/*
+#################################### EMERALD ####################################
+PALETA COLORES
+BASE 008E25
+0    00D638
+1    00AE2E
+2    006E1D
+3    004813
+*/
+body {
+  /*color base*/
+  background-color: #008E25;
+}
+
+a{
+  background: #00D638;
+  color: white;
+}
+
+.jumbotron {
+  /*color 1*/
+  background-color: #00AE2E;
+}
+.navbar{
+    background-color: #006E1D;
+}
